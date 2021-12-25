@@ -1,0 +1,178 @@
+@charset "utf-8";
+/* CSS Document */
+body{background-image:url(images/hediyepaketi.jpg);}
+#anadiv {width:1000px; height:996px; margin:0px auto; background-color:#990033;  }
+#baslik{width:1000px; height:180px; background-color:white;}
+#logo {width:240px; height:100px; float:left;  margin-left:30px; margin-top:50px;}
+#yazi {width:400px; height:100px; float:left; margin-left:35px; margin-top:40px;  padding-top:10px;  }
+#yazi h2 {text-align:center; color:red;  font-weight:bold; font-style:italic;}
+#yazi p {text-align:center; color:red; }
+#logoSag {float:right; width:200px; height:150px; margin-right:30px; margin-top:20px; }
+
+#logoSag p {text-align:center; color:red;}
+
+#menu {width:935px; height:50px; background-color: #090; clear:both; border-style: double; padding-left:60px;  }
+.yatayMenu {list-style-type:none; }
+.yatayMenu li { display:inline; margin-right:40px; line-height:10px;  }
+.yatayMenu a {color:white; text-decoration:none; display:inline-block;}
+.yatayMenu  a:hover { color:yellow;}
+
+
+#icerik {width:1000px; height:710px;  clear:both; }
+
+
+
+#icerikÜst { width:1000px; height:210px;  background-color:#FF9900;  }
+#resim {width:1000px; height:170px;  padding-top:10px; }
+#resim1 { width:190; height:169; float:left;  margin-right:5px; margin-left:15px;  }
+#resim2{ width:190; height:169; float:left;  margin-right:5px;  }
+#resim3{ width:190; height:169; float:left;  margin-right:5px; }
+#resim4{ width:190; height:169; float:left;   margin-right:5px; }
+#resim5{ width:190; height:169; float:left;   margin-right:5px; }
+
+
+
+
+#resimAlt {width:1000px; height:27px; clear:both;  }
+#satınAl1 {width:190px; height:20px; float:left; margin-left:15px;  margin-top:5px;}
+#satınAl1 p { text-align:center; margin-top:0px;}
+#satınAl1 a {text-decoration:none; color:white;}
+#satınAl1 a:hover {color:#393;} 
+
+#satınAl2 {width:190px; height:20px; float:left; margin-left:5px; margin-top:5px;}
+#satınAl2 p { text-align:center; margin-top:0px;}
+#satınAl2 a {text-decoration:none; color:white; }
+#satınAl2 a:hover {color:#393;} 
+
+#satınAl3 {width:190px; height:20px; float:left; margin-left:5px; margin-top:5px;}
+#satınAl3 p { text-align:center; margin-top:0px;}
+#satınAl3 a {text-decoration:none; color:white;}
+#satınAl3 a:hover {color:#393;} 
+
+
+#satınAl4 {width:190px; height:20px; float:left; margin-left:5px;  margin-top:5px;}
+#satınAl4 p { text-align:center; margin-top:0px;}
+#satınAl4 a {text-decoration:none; color:white;}
+#satınAl4 a:hover {color:#393;} 
+
+#satınAl5 {width:190px; height:20px; float:left; margin-left:5px;  margin-top:5px;}
+#satınAl5 p { text-align:center; margin-top:0px;}
+#satınAl5 a {text-decoration:none; color:white;}
+#satınAl5 a:hover {color:#393;} 
+
+
+#icerikOrta {width:1000px; height:550px; background-color:#090; }
+
+#icerikOrtaSol {width:250px; height:530px; float:left; margin-left:10px; margin-top:10px; background-color:#FF9900; border-radius:5px;}
+#icerikOrtaSol h2 {text-align:center; color:white;   }
+#icerikOrtaSolBaslik {width:250px; height:30px; background-color:#090;}
+#icerikOrtaSol a {text-decoration:none; color:white;}
+#icerikOrtaSol a:hover {color:#090;}
+#icerikOrtaSol li {list-style-type:none;}
+#icerikOrtaSol li:hover { list-style: url(images/templatemo_list_icon.gif);}
+
+#icerikOrtaSag { width:700px; height:530px; float:left; margin-left:10px; margin-top:10px; background-color:#FF9900; border-radius:5px;}
+
+#solTık { width:50px; height:45px; float:left; margin-left:5px; margin-top:230px;}
+#sagTık { width:50px; height:45px; float:left; margin-left:5px; margin-top:230px;}
+
+#icerikOrtaSagOrta {width:570px; height:510px; float:left; margin-left:10px; margin-top:10px; }
+
+#icerikOrtaSagOrtaUst {width:550px; height:160px;  margin-left:7px; margin-top:5px; }
+#sol{width:170px; height:145px; margin-left:5px; float:left; margin-top:5px;  }
+#satis {width:60px; height:15px; background-color:#090; margin-top:3px; border-radius:3px; margin-left:20px; float:left; text-align:center;}
+#satis a {color:white; text-decoration:none;}
+#satis a:hover {color:yellow;}
+#detay  {width:60px; height:15px; background-color:#090; margin-top:3px; border-radius:3px; margin-left:5px; float:left; text-align:center;}
+#detay a {color:white; text-decoration:none;}
+#detay a:hover {color:yellow;}
+
+#orta{width:170px; height:145px; margin-left:5px; float:left; margin-top:5px;  }
+#satis2 {width:60px; height:15px; background-color:#090; margin-top:3px; border-radius:3px; margin-left:20px; float:left; text-align:center;}
+#satis2 a {color:white; text-decoration:none;}
+#satis2 a:hover {color:yellow;}
+#detay2  {width:60px; height:15px; background-color:#090; margin-top:3px; border-radius:3px; margin-left:5px; float:left; text-align:center;}
+#detay2 a {color:white; text-decoration:none;}
+#detay2 a:hover {color:yellow;}
+
+
+#sag {width:170px; height:145px; margin-left:5px; float:left; margin-top:5px;  }
+#satis3 {width:60px; height:15px; background-color:#090; margin-top:3px; border-radius:3px; margin-left:20px; float:left; text-align:center;}
+#satis3 a {color:white; text-decoration:none;}
+#satis3 a:hover {color:yellow;}
+#detay3  {width:60px; height:15px; background-color:#090; margin-top:3px; border-radius:3px; margin-left:5px; float:left; text-align:center;}
+#detay3 a {color:white; text-decoration:none;}
+#detay3 a:hover {color:yellow;}
+
+
+#icerikOrtaSagOrtaOrta {width:550px; height:160px;  margin-left:7px; margin-top:5px; clear:both;  }
+
+#sol2{width:170px; height:145px; margin-left:5px; float:left; margin-top:5px;  }
+#satis4 {width:60px; height:15px; background-color:#090; margin-top:3px; border-radius:3px; margin-left:20px; float:left; text-align:center;}
+#satis4 a {color:white; text-decoration:none;}
+#satis4 a:hover {color:yellow;}
+#detay4  {width:60px; height:15px; background-color:#090; margin-top:3px; border-radius:3px; margin-left:5px; float:left; text-align:center;}
+#detay4 a {color:white; text-decoration:none;}
+#detay4 a:hover {color:yellow;}
+
+#orta2 {width:170px; height:145px; margin-left:5px; float:left; margin-top:5px;   }
+#satis5 {width:60px; height:15px; background-color:#090; margin-top:3px; border-radius:3px; margin-left:20px; float:left; text-align:center;}
+#satis5 a {color:white; text-decoration:none;}
+#satis5 a:hover {color:yellow;}
+#detay5  {width:60px; height:15px; background-color:#090; margin-top:3px; border-radius:3px; margin-left:5px; float:left; text-align:center;}
+#detay5 a {color:white; text-decoration:none;}
+#detay5 a:hover {color:yellow;}
+
+
+
+#sag2 {width:170px; height:145px; margin-left:5px; float:left; margin-top:5px;    }
+#satis6 {width:60px; height:15px; background-color:#090; margin-top:3px; border-radius:3px; margin-left:20px; float:left; text-align:center;}
+#satis6 a {color:white; text-decoration:none;}
+#satis6 a:hover {color:yellow;}
+#detay6  {width:60px; height:15px; background-color:#090; margin-top:3px; border-radius:3px; margin-left:5px; float:left; text-align:center;}
+#detay6 a {color:white; text-decoration:none;}
+#detay6 a:hover {color:yellow;}
+
+
+#icerikOrtaSagOrtaAlt {width:550px; height:160px;  margin-left:7px; margin-top:5px; clear:both;  }
+#sol3{width:170px; height:145px; margin-left:5px; float:left; margin-top:5px;   }
+#satis7 {width:60px; height:15px; background-color:#090; margin-top:3px; border-radius:3px; margin-left:20px; float:left; text-align:center;}
+#satis7 a {color:white; text-decoration:none;}
+#satis7 a:hover {color:yellow;}
+#detay7  {width:60px; height:15px; background-color:#090; margin-top:3px; border-radius:3px; margin-left:5px; float:left; text-align:center;}
+#detay7 a {color:white; text-decoration:none;}
+#detay7 a:hover {color:yellow;}
+
+
+#orta3 {width:170px; height:145px; margin-left:5px; float:left; margin-top:5px;   }
+#satis8 {width:60px; height:15px; background-color:#090; margin-top:3px; border-radius:3px; margin-left:20px; float:left; text-align:center;}
+#satis8 a {color:white; text-decoration:none;}
+#satis8 a:hover {color:yellow;}
+#detay8  {width:60px; height:15px; background-color:#090; margin-top:3px; border-radius:3px; margin-left:5px; float:left; text-align:center;}
+#detay8 a {color:white; text-decoration:none;}
+#detay8 a:hover {color:yellow;}
+
+
+#sag3 {width:170px; height:145px; margin-left:5px; float:left; margin-top:5px;   }
+
+#satis9 {width:60px; height:15px; background-color:#090; margin-top:3px; border-radius:3px; margin-left:20px; float:left; text-align:center;}
+#satis9 a {color:white; text-decoration:none;}
+#satis9 a:hover {color:yellow;}
+#detay9  {width:60px; height:15px; background-color:#090; margin-top:3px; border-radius:3px; margin-left:5px; float:left; text-align:center;}
+#detay9 a {color:white; text-decoration:none;}
+#detay9 a:hover {color:yellow;}
+
+#alt {width:1000px; height:70px; background-color: #090; clear:both; }
+#etiket1 { width:63px; height:40px; float:left; margin-left:10px; margin-top:15px; border-style:double;}
+#etiket2 { width:63px; height:40px; float:left; margin-left:10px; margin-top:15px; border-style:double;}
+#etiket3 { width:63px; height:40px; float:left; margin-left:10px; margin-top:15px; border-style:double;}
+#etiket4 { width:63px; height:40px; float:left; margin-left:10px; margin-top:15px; border-style:double;}
+
+#altYazi {width:525px; height:40px; float:left; margin-left:75px;  margin-top:15px;}
+#altYazi p {text-align:center; color:white;}
+#altYazi a {text-decoration:none; color:white; }
+ #altYazi a:hover {color:black;}
+
+
+
+
